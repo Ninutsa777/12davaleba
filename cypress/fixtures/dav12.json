@@ -1,0 +1,22 @@
+{
+    "name":"likuna",
+    "email":"likuna@gmail.com",
+    "password":"Likuna123",
+    "birthday":"22",
+    "birthmonth":"10",
+    "birthyear":"2018",
+    "title":"Mrs",
+    "firstName":"lika",
+    "lastName":"kldiashvili",
+    "company":"postal.ge",
+    "adress":"avto varazi 64",
+    "adress2":"rustaveli 9",
+    "country":"Canada",
+    "state":"ontario",
+    "city":"toronto",
+    "zipcode":"1886",
+    "mobile":"555533559",
+    "incorrectmail":"giorgi@gmail.com",
+    "incrrecpassword":"123"
+
+}
